@@ -8,7 +8,7 @@ Each folder in this repository represents a deep dive into a specific library, c
 
 | Module | Status | Description |
 | :--- | :--- | :--- |
-| **[NumPy](./numpy)** | ✅ Completed | A 5-phase roadmap covering arrays, broadcasting, and linear algebra. |
+| **[NumPy](./numPy)** | ✅ Completed | A 5-phase roadmap covering arrays, broadcasting, and linear algebra. |
 | **Pandas** | ⏳ Planned | Dataframes, cleaning, and analysis. |
 | **Matplotlib** | ⏳ Planned | Data visualization and plotting. |
 | **Scikit-Learn** | ⏳ Planned | Intro to Machine Learning algorithms. |
