@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large dataset files
+Pandas/data_2024/survey_results_public.csv
+Pandas/data_2024/2024 Developer Survey.pdf
